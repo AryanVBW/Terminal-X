@@ -1,4 +1,4 @@
-# 🚀 Mac-Turbo-Terminal 🚀 
+# 🚀 Terminal-X 🚀 
 
 Mac-Turbo-Terminal is a macOS terminal modification designed to elevate your command-line experience to new heights. 
 
