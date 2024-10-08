@@ -1,6 +1,6 @@
 # 🚀 Terminal-X 🚀 
 
-Mac-Turbo-Terminal is a macOS terminal modification designed to elevate your command-line experience to new heights. 
+Terminal-X is a macOS terminal modification designed to elevate your command-line experience to new heights. 
 
 ## ✨ Features ✨
 
