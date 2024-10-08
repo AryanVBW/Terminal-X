@@ -17,7 +17,7 @@ Terminal-X is a macOS terminal modification designed to elevate your command-lin
 2. **Installation:**
 
    ```bash
-     ffffff
+     curl -sSL https://raw.githubusercontent.com/AryanVBW/Terminal-X/refs/heads/main/terminalx.sh |bash
    ```
 
 3. **Launch:** Open your terminal and type `./mac-turbo-terminal` to start using it.
