@@ -20,7 +20,7 @@ Terminal-X is a macOS terminal modification designed to elevate your command-lin
      curl -sSL https://raw.githubusercontent.com/AryanVBW/Terminal-X/refs/heads/main/terminalx.sh |bash
    ```
 
-3. **Launch:** Open your terminal and type `./mac-turbo-terminal` to start using it.
+3. **Open your terminal and injoy**
 
 ## ⚙️ Configuration ⚙️
 
