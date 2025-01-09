@@ -31,6 +31,34 @@ Mac-Turbo-Terminal is highly customizable. Explore the configuration files to tw
 * **Keybindings:** Customize key mappings to optimize your workflow.
 * **And much more!** The configuration files are typically located in `~/.config/mac-turbo-terminal/`.
 
+## 🎨 Terminal Art Generator 🎨
+
+The Terminal-X now includes a powerful ASCII art generator that creates a personalized welcome message for your terminal! 
+
+### Features:
+* Generate custom ASCII art from your name
+* Display your social media and contact information
+* Colorful frames and styled text
+* Automatic setup and configuration
+* Works with both bash and zsh
+
+### Usage:
+```bash
+./terminal-art-generator.sh
+```
+Follow the prompts to enter your:
+* Name (for ASCII art)
+* GitHub username
+* Website
+* Instagram handle
+* Email
+
+The generator will automatically:
+1. Create a beautiful ASCII art welcome message
+2. Set up proper colors and formatting
+3. Configure your shell to display it on startup
+4. Install any required dependencies
+
 ## 📬 Contact 📬
 
 Have questions or suggestions? Feel free to open an issue or reach out to us directly. 
@@ -42,4 +70,3 @@ Let's turbocharge your terminal experience together! 🎉
 * **Prerequisites:** Added a note about needing Homebrew.
 * **Installation Instructions:** Provided clear, step-by-step instructions using Homebrew.
 * **Configuration:** Mentioned the typical location of configuration files.
-
